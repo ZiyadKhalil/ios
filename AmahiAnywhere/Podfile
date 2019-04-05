@@ -13,5 +13,5 @@ use_frameworks!
     pod 'MobileVLCKit'
     pod 'Lightbox'
     pod 'ReachabilitySwift'
-    pod 'SDWebImage'
+    pod 'google-cast-sdk' , '~> 4.3'
 end
